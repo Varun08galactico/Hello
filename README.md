@@ -1,2 +1,2 @@
 # Hello
-its a repository that is created bt me fpr the first time 
+its a repository that is created for the first time 
